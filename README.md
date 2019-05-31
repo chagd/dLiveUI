@@ -10,7 +10,7 @@ dependencies to be installed are::
 
 install all dependencies by running
 
-pip install smopy matplotlib numpy tkinter pil --user
+	pip install smopy matplotlib numpy tkinter pil --user
 
 make with ros kinetic
 
